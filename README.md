@@ -52,7 +52,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< Author notes: Footer >>> 
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
